@@ -1,3 +1,7 @@
+body,
+html {
+    font:"Lato", sans-serif;
+}
 /*grid layout*/
 .grid-container {
     display: grid;
