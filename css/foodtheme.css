@@ -1,7 +1,3 @@
-body,
-html {
-    font:"Lato", sans-serif;
-}
 /*grid layout*/
 .grid-container {
     display: grid;
@@ -20,6 +16,7 @@ html {
 
   h1 {
     text-align: center;
+    font: "Lato", sans-serif;
 }
 p { 
   text-align: center;
