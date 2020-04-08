@@ -69,7 +69,7 @@ h1 {
 }
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-  background-color:#A78D8A;
+  background-color:#EEB9A2;
   color: #FDF6F2;
 }
   /*current link color */
@@ -128,7 +128,7 @@ body {
     width: 100%;
     opacity: 0;
     transition: .5s ease;
-    background-color: #89B2BB;
+    background-color: #EEB9A2;
   }
 .container {
       position:relative;
@@ -169,10 +169,10 @@ body {
   }
   
   #myBtn:hover {
-    background-color: #4D3A2C;
+    background-color:rgb(224, 107, 57);
   }
 
      /* title*/
      h1 {
-      color: #E18A7A;
+      color: #EEB9A2;
     }
