@@ -17,3 +17,8 @@ function topFunction() {
   document.body.scrollTop = 0; // For Safari
   document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 }
+
+//test for touch events support and if not supported, attach .no-touch class to the HTML tag.
+if (!(":hover" in document.documentElement)) {
+  document.documentElement.className += "no-touch";
+  }
