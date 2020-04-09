@@ -182,7 +182,10 @@ h2{
     text-align: match-parent;
     width: 100%;
   }
-
+  @media screen and (max-width: 600px){
+   .text{
+    line-height: 0.9em;}
+   }     
 /* top button*/
 #myBtn {
     display: none;
