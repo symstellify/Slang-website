@@ -163,6 +163,7 @@ h3 {
     padding: 5%;
     margin-left: 32%;
     width: 30%;
+    margin: 0 auto;
   }
 
   @media only screen and (min-device-width: 500px){
