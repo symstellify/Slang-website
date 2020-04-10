@@ -162,8 +162,7 @@ h3 {
     display: table;
     padding: 5%;
     margin-left: 32%;
-    width: 30%;
-    margin: 0 auto;
+    width: 10%;
   }
 
   @media only screen and (min-device-width: 500px){
