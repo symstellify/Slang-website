@@ -122,3 +122,8 @@ img {
    h1 {
     color: #E18A7A;
   }
+
+/* description edit*/
+.description {
+    padding: 15px;
+}
