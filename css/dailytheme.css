@@ -138,5 +138,8 @@ img {
 
   /*text in the box*/
   
-  
+  /* description edit*/
+.description {
+    padding: 25px;
+}
 
