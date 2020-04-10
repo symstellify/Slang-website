@@ -181,6 +181,8 @@ h3 {
     }
     
  h2 {
+  letter-spacing: 5px;
+  text-transform: uppercase;
   font: 20px "Lato", sans-serif;
   color: white;
 }
